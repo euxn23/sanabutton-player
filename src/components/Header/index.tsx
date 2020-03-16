@@ -6,11 +6,17 @@ export function Header() {
   return (
     <Container>
       <TitleContainer>
-        <Title>さなボタン(2)</Title>
+        <Title>さなボタン(3 beta)</Title>
       </TitleContainer>
       <ThankNatori>
         さなちゃんからいつも元気貰ってます、ありがとう！ <br />
         勝手に作っちゃってごめんなさい
+        <br />
+        音声データは
+        <a href="https://www.ntoirsana.love" target="_blank" rel="noopener noreferrer">
+          さなボタン(2)
+        </a>
+        の API を使用しています
       </ThankNatori>
       <TweetButton />
       <HommageContainer>

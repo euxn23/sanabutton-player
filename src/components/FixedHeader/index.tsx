@@ -13,7 +13,7 @@ export function FixedHeader(props: Props) {
   return (
     <Fragment>
       <Container ref={ref} shadow={attachShadow}>
-        <Title>さなボタン(2)</Title>
+        <Title>さなボタン(3 beta)</Title>
         <Input type="text" value={value} onChange={onChange} placeholder={'ボタンを検索できるよ'} />
         <ResultContainer in={value.length > 0}>{props.children}</ResultContainer>
       </Container>
