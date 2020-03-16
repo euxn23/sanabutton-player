@@ -12,7 +12,7 @@ export function TweetButton(props: Partial<Props> = { text: 'すこ！　#さな
         href="https://twitter.com/share"
         className="twitter-share-button"
         data-text={props.text}
-        data-url="https://www.natorisana.love/"
+        data-url="https://button.sana.natori.dev/"
         data-lang="ja"
       >
         Tweet

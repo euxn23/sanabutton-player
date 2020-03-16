@@ -1,4 +1,4 @@
-# さなボタン (2) のフロントエンド
+# さなボタン (3) のフロントエンド
 
 ## データの追加・編集
 
@@ -10,5 +10,3 @@
 - next.js を使用し、ビルド時に API を叩いてボタンデータを整形しています。
 - `$ npm start` で開発環境(自動差分ビルド)が開始します。
 - `$ npm build` で本番環境向けビルドを `out` に出力します。
-
-ISSUE は、[こちらで](https://github.com/sanabutton/sanabutton.github.io/issues)一元管理しています。

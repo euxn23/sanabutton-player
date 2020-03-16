@@ -36,12 +36,12 @@ export default class MyDocument extends Document {
           <meta name="viewport" content="initial-scale=1" />
           <meta name="description" content="名取さなの声が再生されるボタン置き場。" />
 
-          <meta property="og:title" content="さなボタン(2)" />
-          <meta property="og:description" content="名取さなの声が再生されるボタン置き場。" />
+          <meta property="og:title" content="さなボタン(3-beta)" />
+          <meta property="og:description" content="名取さなの声が再生されるボタンのフロントエンドアプリケーション" />
           <meta property="og:locale" content="ja_JP" />
           <meta property="og:type" content="website" />
-          <meta property="og:url" content="https://www.natorisana.love" />
-          <meta property="og:image" content="https://www.natorisana.love/images/thumbnail.png" />
+          <meta property="og:url" content="https://buttn.sana.natori.dev" />
+          <meta property="og:image" content="https://ubtton.sana.natori.dev/images/thumbnail.png" />
           <meta name="twitter:card" content="summary" />
           <meta name="twitter:site" content="@sanabutton2" />
           <script async src="https://platform.twitter.com/widgets.js"></script>
